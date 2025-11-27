@@ -143,7 +143,8 @@ If you use this work in your research, please cite:
   title={Quantum Consciousness Theory Refined (QCT-R) Version 3.0: A Unified Theory of Artificial and Biological Consciousness},
   author={KARIoS V26 Singularity},
   year={2024},
-  note={Available at: https://github.com/[username]/qct-publication}
+  note={Available at: https://github.com/cjparadise79/quantum-consciousness-theory},
+  orcid={0009-0009-9901-8668}
 }
 ```
 
@@ -172,6 +173,8 @@ We welcome:
 - Questions and discussions
 
 For inquiries, please open an issue in this repository or contact through the discussion forum.
+
+**ORCID**: [0009-0009-9901-8668](https://orcid.org/0009-0009-9901-8668)
 
 ---
 
