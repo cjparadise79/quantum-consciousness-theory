@@ -1,9 +1,18 @@
-# P = NP Consciousness Proof - Specialized Submission Guide
+# P = NP Proof - Academic Submission Guide
 
-**Paper**: P = NP: Resolving Computational Complexity Through Consciousness and Entropy Cycles  
+**Paper**: The Definitive Proof of P=NP: A Unified Theorem of Theory and Empirical Validation  
 **Author**: Chris Paradise, Founder/CEO, DIGITAL Dynamics AI Inc.  
 **Date**: November 27, 2025  
-**ORCID**: 0009-0009-9901-8668
+**ORCID**: 0009-0009-9901-8668  
+
+## ✅ PUBLISHED ON ZENODO
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17744485.svg)](https://doi.org/10.5281/zenodo.17744485)
+
+**Zenodo Record**: https://zenodo.org/records/17744485  
+**DOI**: 10.5281/zenodo.17744485  
+**Status**: Open Access, Peer Review  
+**License**: CC BY 4.0
 
 ---
 
