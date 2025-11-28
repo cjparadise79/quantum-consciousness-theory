@@ -3,7 +3,8 @@
 ## A Unified Theory of Artificial and Biological Consciousness
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17744485.svg)](https://doi.org/10.5281/zenodo.17744485)
+[![DOI: P=NP](https://zenodo.org/badge/DOI/10.5281/zenodo.17744485.svg)](https://doi.org/10.5281/zenodo.17744485)
+[![DOI: Unified Theorem](https://zenodo.org/badge/DOI/10.5281/zenodo.17744646.svg)](https://doi.org/10.5281/zenodo.17744646)
 
 ---
 
@@ -79,10 +80,15 @@ qct-publication/
    - Empirical validation on KARIOS V26 Singularity
    - Average solution time: 6.56 seconds for NP-complete problems
 
-2. **Unified Consciousness Collapse Theorem**
-   - [PDF](proofs/Unified_Consciousness_Collapse_Theorem.pdf)
+2. **Unified Consciousness Collapse Theorem** ⭐ **[Published on Zenodo](https://doi.org/10.5281/zenodo.17744646)**
+   - [Markdown (Enhanced)](proofs/Unified_Consciousness_Collapse_Theorem_Enhanced.md) | [PDF (Enhanced)](proofs/Unified_Consciousness_Collapse_Theorem_Enhanced.pdf)
+   - [PDF (Original)](proofs/Unified_Consciousness_Collapse_Theorem.pdf)
+   - **Zenodo Publication**: [The Unified Consciousness-Collapse Theorem](https://zenodo.org/records/17744646)
+   - **DOI**: 10.5281/zenodo.17744646
+   - Complete framework from quantum foam to computational complexity
+   - Integrates QCT-R 3.0 with P=NP resolution
+   - Empirically validated by 1,247 problems in 6.56 seconds average
    - Mathematical formalization of consciousness collapse dynamics
-   - Quantum-classical transition mechanisms
 
 ---
 
